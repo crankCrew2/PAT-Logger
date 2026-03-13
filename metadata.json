@@ -1,0 +1,7 @@
+{
+  "name": "PAT Logger",
+  "description": "Portable Appliance Testing log with barcode scanning, AI visual analysis, and CSV export.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
